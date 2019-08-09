@@ -1,0 +1,22 @@
+{
+	"params2": [{
+		"id2": 210,
+		"titl2": "Марка",
+		"value2": "",
+		"values2": [{
+			"id2": 1163,
+			"title2": "Audi",
+			"params2": [{
+				"id": 227,
+				"title": "Модель",
+				"value": "",
+				"values": [{
+					"id": 2979,
+					"title": "A1"
+				}, {
+					"id": 1545,
+					"title": "A3"
+				}]
+			}]
+		}
+}
